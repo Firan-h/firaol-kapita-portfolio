@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/firaol-kapita-portfolio/static/css/main.c9da499e.css",
-    "main.js": "/firaol-kapita-portfolio/static/js/main.7e542e7f.js",
+    "main.js": "/firaol-kapita-portfolio/static/js/main.a577201f.js",
     "index.html": "/firaol-kapita-portfolio/index.html",
     "main.c9da499e.css.map": "/firaol-kapita-portfolio/static/css/main.c9da499e.css.map",
-    "main.7e542e7f.js.map": "/firaol-kapita-portfolio/static/js/main.7e542e7f.js.map"
+    "main.a577201f.js.map": "/firaol-kapita-portfolio/static/js/main.a577201f.js.map"
   },
   "entrypoints": [
     "static/css/main.c9da499e.css",
-    "static/js/main.7e542e7f.js"
+    "static/js/main.a577201f.js"
   ]
 }
