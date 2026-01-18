@@ -8,7 +8,7 @@ const Projects = () => {
       title: 'React Portfolio Website',
       description: 'A modern, responsive portfolio website built with React to showcase my skills, projects, and professional background. Features dynamic theming, smooth navigation, and contact form integration. This very website demonstrates my frontend development capabilities and attention to UX/UI design principles.',
       status: 'Completed & Deployed',
-      tech: ['React', 'React Router', 'JavaScript', 'CSS3', 'Formspree', 'React Hooks', 'Git', 'Netlify'],
+      tech: ['React', 'React Router', 'JavaScript', 'CSS3', 'Formspree', 'React Hooks', 'Git', 'GitHub Pages'],
       features: [
         'Fully responsive design for all screen sizes',
         'Dark/light mode toggle with localStorage persistence',
@@ -17,11 +17,12 @@ const Projects = () => {
         'Interactive project showcase with detailed cards',
         'Professional about section with skills visualization',
         'Optimized performance with lazy loading',
-        'SEO-friendly structure and metadata'
+        'SEO-friendly structure and metadata',
+        'Deployed on GitHub Pages'
       ],
       color: '#3498db',
-      liveLink: 'http://localhost:3000', // Change to your actual domain
-      githubLink: 'https://github.com/yourusername/firaol-portfolio' // Add your GitHub link
+      liveLink: 'https://firan-h.github.io/firaol-kapita-portfolio',
+      githubLink: 'https://github.com/Firan-h/firaol-kapita-portfolio'
     },
     {
       id: 2,
@@ -207,7 +208,7 @@ const Projects = () => {
       <div style={styles.callToAction}>
         <h2>Interested in Collaborating?</h2>
         <p>I'm open to discussing project ideas, freelance work, or full-time opportunities.</p>
-        <a href="/contact" style={styles.ctaButton}>Get In Touch</a>
+        <a href="#contact" style={styles.ctaButton}>Get In Touch</a>
       </div>
     </div>
   );
