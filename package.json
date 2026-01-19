@@ -1,7 +1,7 @@
 {
   "name": "firaol-kapita-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Firan-h.github.io/firaol-kapita-portfolio",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "framer-motion": "^12.26.2",
