@@ -11,7 +11,7 @@ const Home = () => {
           <h1 style={styles.title}>Firaol Kapita</h1>
           <h2 style={styles.subtitle}>Full-Stack Developer</h2>
           <p style={styles.description}>
-            MSc Information Technology graduate specializing in modern web technologies.
+            MSc in Information Technology graduate specializing in modern web technologies.
             Building efficient, scalable solutions with React, Node.js, and cloud platforms.
           </p>
           
@@ -32,6 +32,11 @@ const Home = () => {
           <div style={styles.badge}>JavaScript</div>
           <div style={styles.badge}>MySQL</div>
           <div style={styles.badge}>MongoDB</div>
+           <div style={styles.badge}>PHP</div>
+            <div style={styles.badge}>HTML5</div>
+             <div style={styles.badge}>CSS3</div>
+              <div style={styles.badge}>BootStrap</div>
+               <div style={styles.badge}>TailwindCss</div>
           <div style={styles.badge}>AWS</div>
         </div>
       </div>
@@ -82,7 +87,7 @@ const Home = () => {
         <h2>Ready to Build Something Amazing?</h2>
         <p>Let's discuss how I can contribute to your team or project.</p>
         <Link to="/contact" style={styles.ctaButton}>
-          Start Conversation
+          Start Conversation with Firaol
         </Link>
       </div>
     </div>

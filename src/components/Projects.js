@@ -208,7 +208,7 @@ const Projects = () => {
       <div style={styles.callToAction}>
         <h2>Interested in Collaborating?</h2>
         <p>I'm open to discussing project ideas, freelance work, or full-time opportunities.</p>
-        <a href="#contact" style={styles.ctaButton}>Get In Touch</a>
+       <a href="/contact" style={styles.ctaButton}>Get In Touch with Firaol</a>
       </div>
     </div>
   );
